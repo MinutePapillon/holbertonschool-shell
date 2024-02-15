@@ -1,2 +1,2 @@
 #!/bin/bash
-echo result=$((128 + $TRUEKNOWLEDGE))
+echo NUM=$((128 + $TRUEKNOWLEDGE))
